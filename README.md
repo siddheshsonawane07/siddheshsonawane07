@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 👨‍💻 All of my projects are available at [https://znap.link/siddhesh07](https://znap.link/siddhesh07)
+- 👨‍💻 Visit my portfolio at  [https://znap.link/siddhesh07](https://znap.link/siddhesh07)
 
 - 📫 How to reach me **siddheshsonawane07@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EUug8RbmSyEijV8n6cBuREDE6LqbZxEQ0kpUWppIVIQ/edit?usp=sharing](https://docs.google.com/document/d/1EUug8RbmSyEijV8n6cBuREDE6LqbZxEQ0kpUWppIVIQ/edit?usp=sharing)
+- 📄 Resume [https://docs.google.com/document/d/1EUug8RbmSyEijV8n6cBuREDE6LqbZxEQ0kpUWppIVIQ/edit?usp=sharing](https://docs.google.com/document/d/1EUug8RbmSyEijV8n6cBuREDE6LqbZxEQ0kpUWppIVIQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
