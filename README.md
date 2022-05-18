@@ -13,10 +13,7 @@
 
 - ❓ Ask me about anything related to Flutter  
   
-
-- ⚡ Fun fact: I am an introvert  
-  
-
+ 
 <br/>  
 
 
