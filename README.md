@@ -5,7 +5,7 @@
 ### <div align="center">I'm Siddhesh, a CSE student from Dr. DY Patil Institute of Technology, Pimpri</div>  
   
 
-- 🔭 I’m currently working on Blogify  
+- 🔭 I’m currently working on "Nothing" 
   
 
 - 🌱 I’m currently learning MERN Stack   
