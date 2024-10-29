@@ -20,7 +20,6 @@ I'm a passionate **Software Developer** with a solid foundation in software deve
   - **Team Leader** in **Flipkart Grid 5.0** Hackathon, reached **Level 2**
   - Qualified for regionals in **GFG Solving India Hackathon**
 - **GDSC DIT Flutter Co-Lead**: Conducted sessions on cross-platform development using Flutter
-- **Offer from LTTS**: Recently offered a role as **Associate Software Engineer**
 
 ---
 
