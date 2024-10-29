@@ -1,101 +1,51 @@
+# 👋 Hi, I'm Siddhesh Sonawane
 
+I'm a passionate **Software Developer** with a strong background in **Java**, **JavaScript**, and **Flutter** development, along with experience in web frameworks like **ReactJS** and **Node.js**. I recently graduated with a Bachelor's degree in Computer Science from **Dr. D.Y. Patil Institute of Technology** with a CGPA of 8.76 and am currently exploring new and exciting opportunities in software engineering.
 
-### <div align="center">I'm Siddhesh, a CSE student from Dr. DY Patil Institute of Technology, Pimpri</div>  
-  
+---
 
-- 🔭 I’m currently working on "Nothing" 
-  
+## 🛠️ Skills & Technologies
+- **Languages:** Java, JavaScript, Python, Dart
+- **Frontend:** ReactJS, Tailwind CSS, HTML, CSS, Flutter
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, Firebase
+- **Version Control:** Git, GitHub
+- **Tools:** Figma, Streamlit, Agora SDK
+- **APIs:** Experience in integrating third-party APIs and implementing RESTful APIs
 
-- 🌱 I’m currently learning MERN Stack   
-    
- 
-<br/>  
+---
 
+## 💻 Projects
+- **Proctorise**: Built with JavaScript for secure proctoring solutions.
+- **Document Verification App**: Created a web app using ReactJS to verify documents using AI, focused on barcode verification, digital signature checks, and date validation.
+- **AI Radio**: Developed using Flutter for an interactive radio experience.
+- **Task Manager API**: Hosted on Render, this API helps manage tasks with a reliable backend.
+- **Bounties Manager**: A hackathon project, this app was built using React to manage project bounties and visualize data.
+- **GitHub Projects Dashboard**: Built with Streamlit to visualize repository data in a user-friendly way.
+- **WhatsApp Chat JSON Converter**: Streamlit app to convert WhatsApp chats into JSON files categorized by sender.
+- **Wordle Clone**: Recreated the popular game using Flutter for an engaging UI experience.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🌟 Accomplishments
+- **Hackathons**: 
+  - Finalist in **Smart India Hackathon 2022**
+  - **Team Leader** in **Flipkart Grid 5.0** Hackathon, reached **Level 2**
+  - Qualified for regionals in **GFG Solving India Hackathon**
+- **GDSC DIT Flutter Co-Lead**: Conducted sessions on cross-platform development using Flutter
+- **Offer from LTTS**: Recently offered a role as **Associate Software Engineer**
 
+---
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-</div>
+## 🧩 Approach & Mindset
+I pride myself on being a focused team player who approaches every challenge with positivity and dedication. My goal is to write clean, efficient code that enhances user experience and contributes to meaningful projects. I'm continuously working to expand my knowledge and skills to stay updated with the latest industry trends.
 
-</td><td valign="top" width="33%">
+---
 
+## 📫 Let's Connect
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/siddheshsonawane07/)
+- **Portfolio**: [Your GitHub Profile](https://sid07portfolio.netlify.app/)
 
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/siddheshsonawane07" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/SiddheshSonawa8" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/siddheshsonawane07" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_siddhesh___07" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/Siddhesh Sonawane" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/>  
-  
-<br/>  
-
-
-<br/>  
-
-
-<br />
+Thank you for visiting my profile! I'm always open to discussing new ideas and opportunities. Feel free to reach out if you’d like to collaborate on a project or just want to connect!
