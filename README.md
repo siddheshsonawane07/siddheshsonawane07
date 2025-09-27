@@ -22,14 +22,14 @@ I'm a **versatile software craftsman** who bridges the gap between traditional d
 
 ```bash
 🌐 Web Technologies
-├── ReactJS ⚛️ (Advanced)
-├── HTML5 & CSS3 🎨 (Expert)
-├── Streamlit 📊 (Data Apps)
+├── ReactJS ⚛️
+├── HTML5 & CSS3 🎨
+├── Streamlit 📊
 └── UI/UX Principles ✨
 
 📱 Mobile Development
-├── Flutter 🐦 (Cross-platform)
-├── React Native ⚛️ (iOS/Android)
+├── Flutter 🐦
+├── React Native ⚛️
 └── Dart Language 🎯
 ```
 </details>
@@ -39,14 +39,14 @@ I'm a **versatile software craftsman** who bridges the gap between traditional d
 
 ```bash
 🔧 Server Technologies
-├── Node.js 🟢 (Runtime)
-├── Express.js 🚀 (Framework)
-└── RESTful APIs 🔗 (Design & Implementation)
+├── Node.js 🟢
+├── Express.js 🚀
+└── RESTful APIs 🔗
 
 🗄️ Database Mastery
-├── MongoDB 🍃 (NoSQL)
-├── MySQL 🐬 (Relational)
-└── Firebase 🔥 (Real-time)
+├── MongoDB 🍃
+├── MySQL 🐬
+└── Firebase 🔥
 ```
 </details>
 
@@ -55,13 +55,13 @@ I'm a **versatile software craftsman** who bridges the gap between traditional d
 
 ```bash
 🧠 Artificial Intelligence
-├── LangChain 🦜🔗 (LLM Applications)
-├── Python 🐍 (Data Science & ML)
-└── AI Integration 🤖 (Smart Apps)
+├── LangChain 🦜🔗
+├── Python 🐍
+└── AI Integration 🤖
 
 🔄 Process Automation
-├── Automation Anywhere 360 🤖 (Enterprise RPA)
-├── UiPath 🎯 (Workflow Automation)
+├── Automation Anywhere 360 🤖
+├── UiPath 🎯
 └── Business Process Optimization 📈
 ```
 </details>
@@ -71,12 +71,12 @@ I'm a **versatile software craftsman** who bridges the gap between traditional d
 
 ```bash
 Languages & Tools
-├── Java ☕ (Object-Oriented)
-├── JavaScript 🟨 (Full-Stack)
-├── Python 🐍 (Versatile)
-├── C++ ⚡ (Performance)
-├── Git/GitHub 🐙 (Version Control)
-└── Dart 🎯 (Flutter Development)
+├── Java ☕
+├── JavaScript 🟨
+├── Python 🐍
+├── C++ ⚡
+├── Git/GitHub 🐙
+└── Dart 🎯
 ```
 </details>
 
@@ -89,7 +89,7 @@ Languages & Tools
 🏅 Smart India Hackathon 2022 - FINALIST
    └── National-level competition recognition
 
-🚀 Flipkart Grid 5.0 - TEAM LEADER (Level 2)
+🚀 Flipkart Grid 5.0 - TEAM LEADER
    └── Led team through multiple elimination rounds
 
 💡 GFG Solving India Hackathon - REGIONAL QUALIFIER
@@ -100,19 +100,9 @@ Languages & Tools
 ```
 👥 GDSC DIT Flutter Co-Lead
    ├── Conducted technical workshops
-   ├── Mentored 50+ students
+   ├── Mentored students
    └── Built cross-platform development community
 ```
-
----
-
-## 🎯 **Current Focus Areas**
-
-| 🔍 **Exploring** | 🚀 **Building** | 📚 **Learning** |
-|------------------|-----------------|-----------------|
-| LLM Applications | AI-Powered Apps | Advanced ML |
-| Enterprise RPA | Mobile Solutions | Cloud Architecture |
-| Automation Tools | Web Platforms | DevOps Practices |
 
 ---
 
