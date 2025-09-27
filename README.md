@@ -1,5 +1,5 @@
 # 🚀 Siddhesh Sonawane
-### *Full-Stack Developer | AI Enthusiast | Automation Expert*
+### *Full-Stack Developer | AI Enthusiast *
 
 > *"Transforming ideas into intelligent, scalable solutions with cutting-edge technology"*
 
@@ -23,7 +23,6 @@ I'm a **versatile software craftsman** who bridges the gap between traditional d
 ```bash
 🌐 Web Technologies
 ├── ReactJS ⚛️
-├── HTML5 & CSS3 🎨
 ├── Streamlit 📊
 └── UI/UX Principles ✨
 
@@ -62,7 +61,6 @@ I'm a **versatile software craftsman** who bridges the gap between traditional d
 🔄 Process Automation
 ├── Automation Anywhere 360 🤖
 ├── UiPath 🎯
-└── Business Process Optimization 📈
 ```
 </details>
 
@@ -74,7 +72,6 @@ Languages & Tools
 ├── Java ☕
 ├── JavaScript 🟨
 ├── Python 🐍
-├── C++ ⚡
 ├── Git/GitHub 🐙
 └── Dart 🎯
 ```
