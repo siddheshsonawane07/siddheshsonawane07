@@ -37,7 +37,7 @@ Freelance software developer turning ideas into scalable solutions. I build MVPs
 
 ## Let's Work Together
 
-Building your next MVP? Need AI integration? Let's discuss your project.
+Building your next MVP? Let's discuss your project.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddheshsonawane07/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://sid07portfolio.netlify.app/)
