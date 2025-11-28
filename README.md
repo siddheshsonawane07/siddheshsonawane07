@@ -1,6 +1,6 @@
 # Siddhesh Sonawane
 
-**Full-Stack Developer | MVP Builder | AI Integration Specialist**
+**Full-Stack Developer | MVP Builder **
 
 Freelance software developer turning ideas into scalable solutions. I build MVPs fast and ship production-ready applications.
 
