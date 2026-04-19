@@ -2,18 +2,18 @@
 
 **Full-Stack Developer | MVP Builder**
 
-Freelance software developer turning ideas into scalable solutions. I build MVPs fast and ship production-ready applications.
+Software developer turning ideas into scalable solutions. I build MVPs fast and ship production-ready applications.
 
-📍 Pune, Maharashtra | 💼 Available for Projects
+📍 Pune, Maharashtra | 💼 Available for collaborative projects
 
 ---
 
 ## What I Build
 
 **Web & Mobile Applications**
-- ReactJS, React Native, Flutter
+- ReactJS, React Native, Flutter, NextJS
 - Node.js, Express.js, FastAPI
-- MongoDB, MySQL, Firebase
+- MongoDB, MySQL, Firebase, Supabase
 
 **AI-Powered Solutions**
 - LangChain integrations
@@ -45,4 +45,4 @@ Building your next MVP? Let's discuss your project.
 
 ---
 
-<sub>Open to freelance projects and collaborations</sub>
+<sub>Open to colloborative projects</sub>
