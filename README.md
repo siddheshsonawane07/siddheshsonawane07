@@ -27,14 +27,6 @@ Software developer turning ideas into scalable solutions. I build MVPs fast and 
 
 ---
 
-## Recognition
-
-- Smart India Hackathon 2022 Finalist
-- Flipkart Grid 5.0 Team Leader
-- GDSC DIT Flutter Co-Lead
-
----
-
 ## Let's Work Together
 
 Building your next MVP? Let's discuss your project.
