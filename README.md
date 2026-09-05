@@ -19,35 +19,33 @@ I own delivery end to end — scoping, architecture, deployment, maintenance.
 
 ## Client Work
 
-<sub>Private codebases. Happy to walk through the architecture on a call.</sub>
+<sub>Private codebases. Happy to walk through any of these on a call.</sub>
 
 #### Stadium Operations Platform
-`React 18` `TypeScript` `Express` `PostgreSQL` `Supabase Auth` `Railway`
+<sub>Two-venue concessions operator · `React` `TypeScript` `Express` `PostgreSQL` `Railway`</sub>
 
-Automated a manual per-game-day financial close — invoice handling from 10–15 min to under 2 min.
-Caught a **100% revenue double-count**: vendor invoice gross equalled POS gross to the cent, doubling every game day.
-New venue onboarding is a 30-second admin toggle, not a release. 1,265 tests · 90 endpoints · 57 migrations under CI.
+- Invoice processing dropped from **15 minutes to under 2** — roughly **35 hours of finance time back every month**.
+- Found revenue being **counted twice, every game day**. Every margin and forecast figure the business planned against was wrong until it was fixed.
+- Opening a new venue went from a **release cycle to a 30-second toggle** — and it's reversible.
 
 #### Business Directory & Subscriptions
-`Next.js 15` `React 19` `TypeScript` `Supabase` `Stripe` `Docker`
+<sub>Subscription marketplace · `Next.js` `TypeScript` `Supabase` `Stripe`</sub>
 
-Passwordless self-service billing for owners with no platform account — moved billing support off the queue.
-Killed a **double-charge defect pre-production**: free→paid and paid→paid are different Stripe paths; merging them bills twice.
-132 route handlers · 177 SSR pages · 12 webhook-driven billing modules.
+- Business owners manage their own billing without an account, taking subscription and payment questions **off the support queue** — self-serve resolves at **$1–4 against $17–25** for an assisted ticket.
+- Caught existing subscribers being **charged twice on upgrade** — before it reached a single customer.
+- Merged duplicate billing identities so one payer gets one invoice, ending a recurring reconciliation headache.
 
 #### Cultural Heritage Archive App
-`Expo SDK 57` `React Native` `React 19` `TypeScript` `Supabase` `TanStack Query`
+<sub>Community archive, mobile · `React Native` `Expo` `TypeScript` `Supabase`</sub>
 
-Contributor setup from 2–5 days to **one command, no network** — a second DataSource implementation runs the whole app offline.
-**Zero writable surface**: 17 tables grant no direct write; reads via 13 views, writes via 41 `SECURITY DEFINER` functions.
-Fixed a signup trigger that bricked account creation forever on a username collision.
+- Fixed signup **permanently locking people out** — anyone whose username collided lost their account for good, not just on the first try.
+- New contributors productive in **one command instead of 2–5 days** of setup, so volunteer help actually converts into work.
 
 #### 3PL Logistics Lead-Gen Site
-`Next.js 16` `React 19` `TypeScript` `Plain CSS` `Cloudflare`
+<sub>Third-party logistics provider · `Next.js` `TypeScript` `Cloudflare`</sub>
 
-WordPress rebuild, sub-2s. Core Web Vitals as a shipping gate: 90+ Lighthouse, LCP < 2.5s, CLS < 0.1, INP < 200ms.
-Three runtime dependencies — `next`, `react`, `react-dom`. No UI kit, no icon library.
-Pulled fabricated testimonials and unapproved pricing before launch.
+- Rebuilt a slow WordPress site to load in **under 2 seconds** — the band Google ties to conversion lifts of up to **27%**, and **8.3% more form submissions per 0.1s** saved on lead-gen pages.
+- Pulled **fabricated testimonials and unapproved pricing** before launch. An FTC problem, not a copy problem.
 
 ---
 
@@ -55,16 +53,16 @@ Pulled fabricated testimonials and unapproved pricing before launch.
 
 | | What it does | Tech | |
 |---|---|---|---|
-| **SprintFlow AI** | Multi-agent sprint planning — orchestrator over Epic, Story and Task agents | Archestra.ai, MCP | [Demo](https://www.youtube.com/watch?v=_8dMuHbzci0&t=12s) |
-| **Crisis Voice Agent** | Records calls, auto-fills clinical forms. <800ms latency, 94% accuracy | FastAPI, Deepgram, React | — |
-| **GitHub Chatbot** | RAG over my GitHub — explore repos conversationally | LangChain.js, FAISS, Express | [Code](https://github.com/siddheshsonawane07/github_langchain_chatbot) |
-| **WhatsApp Parser CLI** | WhatsApp exports → clean JSON | Node.js, Commander | [npm](https://www.npmjs.com/package/whatsapp-chat-parser-cli) |
-| **Proctorise** | Online proctoring — pose estimation, multi-face detection | TensorFlow.js, React | [Live](https://proctorise.netlify.app/) · [Code](https://github.com/siddheshsonawane07/proctorise) |
-| **Persona Mirror** | Replies in a chosen participant's voice from chat history | Mistral, FAISS, Streamlit | [Code](https://github.com/siddheshsonawane07/mimic_user_persona_using_mistral) |
-| **Excel Visualizer** | Detects column types, recommends charts | Streamlit, Pandas | [Live](https://sidexcelvisualizer.streamlit.app/) · [Code](https://github.com/siddheshsonawane07/excel_visualizer) |
-| **Bounties Aggregator** | On-chain bounty discovery with wallet connect | Solidity, Ethers.js, Hardhat | [Live](https://bountiesaggregator.netlify.app/) · [Code](https://github.com/siddheshsonawane07/bounties_manager_v2) |
+| **SprintFlow AI** | Turns a goal into a planned sprint — epics, stories and tasks, sequenced | Archestra.ai, MCP | [Demo](https://www.youtube.com/watch?v=_8dMuHbzci0&t=12s) |
+| **Crisis Voice Agent** | Records assessment calls and fills the clinical paperwork for the clinician | FastAPI, Deepgram, React | — |
+| **Support Assistant** | Triages support email and drafts the fix — 18 minutes to 4 per ticket | PixieBrix, Azure DevOps | — |
+| **GitHub Chatbot** | Lets visitors ask my GitHub questions instead of reading it | LangChain.js, FAISS | [Code](https://github.com/siddheshsonawane07/github_langchain_chatbot) |
+| **WhatsApp Parser CLI** | WhatsApp exports into clean JSON you can actually analyse | Node.js | [npm](https://www.npmjs.com/package/whatsapp-chat-parser-cli) |
+| **Proctorise** | Keeps remote exams honest — spots extra people and wandering attention | TensorFlow.js, React | [Live](https://proctorise.netlify.app/) · [Code](https://github.com/siddheshsonawane07/proctorise) |
+| **Excel Visualizer** | Upload a spreadsheet, get the right charts without picking them | Streamlit, Pandas | [Live](https://sidexcelvisualizer.streamlit.app/) · [Code](https://github.com/siddheshsonawane07/excel_visualizer) |
+| **Bounties Aggregator** | One place to find and publish on-chain bounties | Solidity, Ethers.js | [Live](https://bountiesaggregator.netlify.app/) · [Code](https://github.com/siddheshsonawane07/bounties_manager_v2) |
 
-<sub>Flutter and Android work — <a href="https://github.com/siddheshsonawane07/flutter_ai_radio">Online Radio</a> ·
+<sub>Flutter and Android — <a href="https://github.com/siddheshsonawane07/flutter_ai_radio">Online Radio</a> ·
 <a href="https://github.com/siddheshsonawane07/flutter_wordle">Wordle</a> ·
 <a href="https://github.com/siddheshsonawane07/flutter_movies_list">Movies List</a> ·
 <a href="https://github.com/siddheshsonawane07/flutter_catalog_ui">Catalog UI</a> ·
@@ -92,11 +90,10 @@ Pulled fabricated testimonials and unapproved pricing before launch.
 ## Experience
 
 **Freelance Software Engineer** — Independent · *Aug 2026 – Present*
-Sole contractor for an F&B concessions operator, plus client work in React, Next.js, Expo and Postgres.
-Designed shared SSO and per-app entitlement across three apps — auth answers *who*, a permission table answers *what*, re-read every request.
+Sole contractor for an F&B concessions operator, plus client work across web and mobile. One sign-in now covers their three apps, so staff access is granted and revoked in one place.
 
 **Software Engineer** — Xalta Technologies, Pune · *Mar 2025 – Aug 2026*
-RPA on Automation Anywhere A360, Jira Service Management config, an AI crisis-assessment voice agent, and a PixieBrix support assistant for Outlook and Azure DevOps.
+Automated repetitive enterprise workflows, configured Jira Service Management for client teams, and built two AI tools that cut documentation and support triage time.
 
 ---
 
