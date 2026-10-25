@@ -35,6 +35,8 @@ Next.js 15 · React 19 · TypeScript · Supabase · Stripe · Docker
 
 A regional business directory — public listings, paid subscription placements, donations and a blog CMS.
 
+**[Live site](https://www.caribbeangreenbook.com/)**
+
 - **Migrated the whole directory off WordPress** — all **140 business listings** moved onto the new stack with nothing dropped, replacing a site the client could no longer grow.
 - **AI-assisted business discovery** — finding and vetting candidates for the directory went from open-ended manual research to a reviewed shortlist, so the directory grows without the editorial team growing with it.
 - **Self-service for business owners** — the routine changes owners used to email about are now handled by owners themselves, worth **40–60% support deflection**.
@@ -44,6 +46,8 @@ React 19 · TypeScript · Expo Router (React Native Web) · Supabase · TanStack
 
 A history and culture archive on the web. It preserves local knowledge — food, healing, dialect, music, ancestry — in the voices of the elders, cooks and herbalists who hold it, and in the recordings families make on their behalf.
 
+*The app is in progress.*
+
 - **Layered media makes it an archive, not a forum** — audio, transcript, photographs and video sit on a single entry, and the dialect is preserved as spoken rather than corrected into standard English.
 - **A live feed, not a museum** — people post, follow, like and comment; the archive is the by-product of an active community rather than a static collection.
 - **Offline-first** — the whole archive runs with no network at all, which also takes contributor onboarding from **2–5 days to a single command**.
@@ -52,6 +56,8 @@ A history and culture archive on the web. It preserves local knowledge — food,
 Next.js 16 · React 19 · TypeScript · Plain CSS · Railway · Cloudflare
 
 A rebuild of the site for a US third-party logistics (3PL) provider that stores, picks, packs and ships freight for other brands. Its only job is getting brands and carriers into the sales funnel.
+
+**[Live site](https://www.firsttofinallogistics.com/)**
 
 - **WordPress rebuilt to sub-2-second load** — the band Google ties to conversion lifts up to **27%**, and **8.3% more form submissions per 0.1s** saved on lead-gen pages.
 - **Core Web Vitals as shipping gates** — 90+ Lighthouse, LCP under 2.5s, CLS under 0.1, INP under 200ms.
