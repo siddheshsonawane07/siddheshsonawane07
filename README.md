@@ -19,8 +19,6 @@ I own delivery end to end — scoping, architecture, deployment, maintenance.
 
 ## Client Work
 
-<sub>Private codebases, client names withheld. Happy to walk through any of these on a call.</sub>
-
 ### Business Operations Suite
 TypeScript · React · Vite · Express · PostgreSQL · Supabase Auth · React Native (Expo) · TanStack Query · Railway
 
